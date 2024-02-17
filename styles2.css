@@ -1,0 +1,66 @@
+body {
+    background-image: url('img/bckg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+        width: 100%;
+        max-width:1080px;
+  }
+  #image{
+    position: relative;
+        top: 50px;
+        left: 750px;
+    }
+
+    #love_text {
+        position: relative;
+        top: 400px;
+        left: 800px;
+        font-size: 25px;
+        font-style: italic
+    }
+
+    #teacher1{
+        position: relative;
+        top: 550px;
+        right:400px;
+    }
+    #teacher2{
+        position: relative;
+        top: 325px;
+        right:675px;
+    }
+    #teacher3{
+        position: relative;
+        bottom: 150px;
+    }
+    #teacher4{
+        position: relative;
+        bottom: 350px;
+        right: 285px;
+    }
+
+    #teacher5{
+
+        position: relative;
+        top: 290px;
+        left: 1050px;
+    }
+    #teacher6{
+
+        position: relative;
+        bottom: 175px;
+        left: 1625px;
+    }
+    #teacher7{
+
+        position: relative;
+        bottom: 625px;
+        left: 1335px;
+    }
+    #teacher8{
+
+        position: relative;
+        bottom: 400px;
+        left: 1050px;
+    }
+    
